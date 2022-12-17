@@ -1,4 +1,4 @@
-# netSpace
+# TailwindCss prepared template for Nuxt JS
 
 ## Build Setup
 
